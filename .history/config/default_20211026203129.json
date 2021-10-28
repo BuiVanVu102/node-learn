@@ -1,0 +1,3 @@
+{
+	"mongoURI": "mongodb+srv://buivanvu:<password>@posts.tgt8k.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+}
